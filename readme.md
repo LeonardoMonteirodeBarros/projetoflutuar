@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto flutuarr" src="images/img1.jpg" width="100%">
+  <img alt="Projeto flutuar" src="images/img1.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
