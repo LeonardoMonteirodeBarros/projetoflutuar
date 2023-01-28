@@ -1,6 +1,5 @@
 <h1 align="center"> Projeto Flutuar </h1>
 
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,11 +31,9 @@ O projeto flutuar foi desenvolvido para os clientes encontrarem os melhores dest
 
 - [visite o projeto online](https://leonardomonteirodebarros.github.io/projetoflutuar)
 
-
-
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/sUw8QwU8TR3BcxWcryProP/Projeto01-Extra-(Copy)?node-id=1%3A2&t=cmLwxAUN3jbU387j-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/sUw8QwU8TR3BcxWcryProP/Projeto01-Extra-(Copy)?node-id=1%3A2&t=cmLwxAUN3jbU387j-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 

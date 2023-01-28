@@ -1,57 +1,54 @@
-body{
+body {
   text-align: center;
-  font-family: 'open sans', sans-serif;
-  
- 
+  font-family: "open sans", sans-serif;
 }
 
-h1{
-  font-family: 'dosis';
-  color: #3F3D56;
+h1 {
+  font-family: "dosis";
+  color: #3f3d56;
   font-weight: 500;
   font-size: 32px;
 }
 
-h1 span{
-  color: #EE24FF;
+h1 span {
+  color: #ee24ff;
   font-weight: 700;
 }
 
-p{
+p {
   color: #828282;
   max-width: 626px;
-  
-   /* se o texto passar disso vai quebrar 
+
+  /* se o texto passar disso vai quebrar 
   as linhas automaticas*/
 
   margin: 0px auto;
- 
 }
 
 p span {
-  color: #3F3D56;
-font-weight: 700;
+  color: #3f3d56;
+  font-weight: 700;
 }
 
 #footer {
-  color: #3F3D56;
+  color: #3f3d56;
   font-weight: 700;
-  
 }
 
 #content {
   margin: 58px auto 70px auto;
-  
 }
 
-#footer
-{
-margin-bottom: 60px;
+#footer {
+  margin-bottom: 60px;
 }
 
 a {
   margin-right: 21px;
   margin-left: 21px;
+  color: #3f3d56;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 #wave {
@@ -59,8 +56,10 @@ a {
   bottom: 0px;
   left: 0px;
   width: 100%;
-  
+}
 
-
-
+#lines {
+  margin: 0px auto;
+  margin-bottom: 16px;
+  border: 1px solid #828282;
 }
